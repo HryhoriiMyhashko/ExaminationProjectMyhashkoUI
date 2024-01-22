@@ -1,0 +1,236 @@
+2024-22-01 11:51:47   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 11:51:49   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 11:51:54   INFO [pages.MainPage] : Main page was opened
+2024-22-01 11:51:55   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 11:51:55   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:21:33   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:21:35   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:21:41   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:21:41   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:21:41   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:21:41   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:21:42   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:21:42   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:24:08   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:24:10   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:24:16   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:24:16   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:24:16   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:24:16   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:24:18   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:24:19   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:24:19   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:35:13   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:35:15   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:35:21   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:35:21   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:35:21   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:35:21   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:35:24   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:35:30   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:35:30   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:35:53   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:35:55   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:36:00   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:36:00   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:36:01   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:36:01   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:36:03   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:36:08   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:36:08   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:43:00   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:43:02   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:43:07   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:43:08   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:43:08   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:43:08   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:43:10   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:43:15   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:43:15   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:55:20   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:55:22   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:55:28   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:55:28  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 12:55:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:55:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:55:40   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:55:41   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:55:47   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:55:47  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 12:55:47   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:55:47   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:57:24   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:57:26   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:57:31   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:57:31   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:57:31   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 12:57:31   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 12:57:34   INFO [pages.MainPage] : Element was clicked
+2024-22-01 12:57:34   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 12:57:34   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:57:35   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 12:58:10   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 12:58:11   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 12:58:16   INFO [pages.MainPage] : Main page was opened
+2024-22-01 12:58:16  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 12:58:17   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 12:58:17   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:01:53   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:01:55   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:02:00   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:02:00   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:02:00   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:02:00   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:02:02   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:02:02   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:02:03   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:02:03   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:03:37   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:03:39   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:03:44   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:03:44   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:03:44   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:03:44  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:03:45   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:03:45   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:04:31   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:04:33   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:04:38   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:04:38   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:04:38   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:04:38  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:04:39   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:04:39   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:09:41   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:09:43   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:09:49   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:09:49  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:09:49   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:09:49   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:11:29   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:11:31   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:11:36   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:11:36  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:11:37   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:11:37   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:12:25   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:12:27   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:12:32   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:12:32  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:12:33   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:12:33   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:15:40   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:15:42   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:15:48   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:15:48  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:15:49   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:15:49   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:22:06   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:22:09   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:22:14   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:22:14  ERROR [pages.MainPage] : Can not work with element
+2024-22-01 13:22:14   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:22:14   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:26:07   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:26:09   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:26:14   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:26:15   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:26:15   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:26:15   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:26:17   INFO [pages.MainPage] : Element was clickedУвійти
+2024-22-01 13:26:22   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:26:23   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:26:23   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:26:38   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:26:40   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:26:45   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:26:45   INFO [pages.MainPage] : Element was clicked
+2024-22-01 13:26:45   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:26:45   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:26:47   INFO [pages.MainPage] : Element was clickedУвійти
+2024-22-01 13:26:52   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:26:53   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:26:53   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:31:26   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:31:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:31:33   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:31:33   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 13:31:33   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:31:33   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:31:36   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 13:31:41   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:31:41   INFO [pages.HomePage] : Element is displayed -> true
+2024-22-01 13:31:42   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:31:42   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:48:12   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:48:14   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:48:20   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:48:20   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 13:48:20   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:48:20   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:48:23   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 13:48:28   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:48:28   INFO [pages.HomePage] : Element is displayed -> true
+2024-22-01 13:48:28   INFO [pages.HomePage] : Element is displayed -> false
+2024-22-01 13:48:29   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:48:29   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:49:59   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:50:01   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:50:07   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:50:07   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 13:50:07   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:50:07   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:50:10   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 13:50:26   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:50:26   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 13:50:36   INFO [pages.HomePage] : Element is displayed -> false
+2024-22-01 13:50:37   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:50:37   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 13:51:52   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 13:51:54   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 13:51:59   INFO [pages.MainPage] : Main page was opened
+2024-22-01 13:51:59   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 13:51:59   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 13:51:59   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 13:52:02   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 13:52:17   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 13:52:17   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 13:52:28   INFO [pages.HomePage] : Element is displayed -> false
+2024-22-01 13:52:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 13:52:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 14:54:03   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 14:54:05   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 14:54:10   INFO [pages.MainPage] : Main page was opened
+2024-22-01 14:54:11   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 14:54:11   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 14:54:11   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 14:54:13   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 14:54:29   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 14:54:29   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 14:54:39   INFO [pages.HomePage] : Element is displayed -> false
+2024-22-01 14:54:40   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 14:54:40   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 14:58:48   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 14:58:50   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 14:58:55   INFO [pages.MainPage] : Main page was opened
+2024-22-01 14:58:55   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 14:58:55   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 14:58:55   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 14:58:58   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 14:59:14   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 14:59:14   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 14:59:14   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 14:59:14   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 14:59:14   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 15:31:23   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was started ------
+2024-22-01 15:31:26   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 15:31:31   INFO [pages.MainPage] : Main page was opened
+2024-22-01 15:31:31   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:31:31   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 15:31:32   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 15:31:33   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 15:31:49   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 15:31:49   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 15:31:49   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 15:31:50   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 15:31:50   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
