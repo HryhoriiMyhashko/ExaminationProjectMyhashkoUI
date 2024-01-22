@@ -19,4 +19,7 @@ public class PageProvider {
     public RegistrationPage registrationPage() {
         return new RegistrationPage(webDriver);
     }
+    public PersonalDataPage personalDataPage() {
+        return new PersonalDataPage(webDriver);
+    }
 }

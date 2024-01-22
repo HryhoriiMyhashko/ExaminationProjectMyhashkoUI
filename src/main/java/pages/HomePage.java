@@ -9,6 +9,8 @@ public class HomePage extends ParentPage{
     private WebElement login;
     @FindBy(xpath = "//header//div//div//a//i[@class='wish-icon']")
     private WebElement iconWish;
+    @FindBy(xpath = "//*[@href='/user#tab-1']")
+    private WebElement buttonPersonalData;
 
 
     public HomePage(WebDriver webDriver) {
@@ -22,5 +24,13 @@ public class HomePage extends ParentPage{
 
     public boolean isIconWishVisible() {
         return isElementDisplayed(iconWish);
+    }
+
+    public void clickOnButtonMyAccount() {
+        clickOnElement(login);
+    }
+
+    public void clickOnButtonPersonalData() {
+        clickOnElement(buttonPersonalData);
     }
 }

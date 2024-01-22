@@ -63,4 +63,13 @@ public class CommonActionsWithElements {
             return false;
         }
     }
+    protected void checkTextInInput(WebElement inputName, String expectedText) {
+        try {
+            String textFromElement = inputName.getText();
+            Assert.assertEquals("Text in element not matched", expectedText, textFromElement);
+        } catch (Exception e) {
+            logger.error("Can not work with element");
+            Assert.fail("Can not work with element");
+        }
+    }
 }

@@ -6,6 +6,9 @@ import junit.framework.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
+import static data.TestData.VALID_LOGIN_UI;
+import static data.TestData.VALID_PASSWORD_UI;
+
 public class MainPage extends ParentPage {
     @FindBy(xpath = "//*[text()='Вхід']")
     protected WebElement buttonEnter;
@@ -49,5 +52,14 @@ public class MainPage extends ParentPage {
 
     public void clickOnButtonRegistration() {
         clickOnElement(buttonRegistration);
+    }
+
+    public HomePage openMainPageAndFillLoginFormWithValidData() {
+        openMainPage();
+        clickONButtonEnter();
+        enterTextIntoInputLogin(VALID_LOGIN_UI);
+        enterTextIntoInputPassword(VALID_PASSWORD_UI);
+        clickONButtonEnterInLoginMenu();
+        return new HomePage(webDriver);
     }
 }
