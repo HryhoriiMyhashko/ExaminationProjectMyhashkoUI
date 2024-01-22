@@ -10,6 +10,10 @@ public class ProductPage extends ParentPage{
 
     @FindBy(xpath = "//*[@href=\"./cart\"]")
     private WebElement buttonGoToCartPage;
+    @FindBy(xpath = "//*[@class=\"add-wish-icon\"]")
+    private WebElement buttonAddToWishList;
+    @FindBy(xpath = "//header//div//a//i[@class=\"wish-icon\"]")
+    private WebElement buttonGoToWishPage;
 
 
     public ProductPage(WebDriver webDriver) {
@@ -22,5 +26,13 @@ public class ProductPage extends ParentPage{
 
     public void clickOnButtonGoToCartPage() {
         clickOnElement(buttonGoToCartPage);
+    }
+
+    public void clickOnButtonAddToWishList() { clickOnElement(buttonAddToWishList);
+
+    }
+
+    public void clickOnButtonGoToWishPage() {   clickOnElement(buttonGoToWishPage);
+
     }
 }

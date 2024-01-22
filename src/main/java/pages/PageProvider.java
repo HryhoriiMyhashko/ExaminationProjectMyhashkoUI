@@ -28,4 +28,7 @@ public class PageProvider {
     public CartPage cartPage() {
         return new CartPage(webDriver);
     }
+    public WishPage wishPage() {
+        return new WishPage(webDriver);
+    }
 }

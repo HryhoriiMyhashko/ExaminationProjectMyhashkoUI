@@ -683,3 +683,103 @@
 2024-22-01 21:46:14   INFO [pages.CartPage] : Product price is visible
 2024-22-01 21:46:15   INFO [cartPageTest.CartPageTests] : Browser closed
 2024-22-01 21:46:15   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:57:11   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 21:57:13   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 21:57:18   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:57:18   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:57:18   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:57:19   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:57:21   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:57:21   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 21:57:25   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:57:26   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 21:57:26   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 21:59:08   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 21:59:10   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 21:59:15   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:59:15   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:59:15   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:59:15   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:59:17   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:59:17   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 21:59:21   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:59:21   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 21:59:22   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 21:59:22   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 22:04:05   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 22:04:07   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 22:04:12   INFO [pages.MainPage] : Main page was opened
+2024-22-01 22:04:12   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 22:04:12   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 22:04:13   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 22:04:14   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 22:04:15   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 22:04:18   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 22:04:18   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:04:20   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:04:20   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 22:04:20   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 22:12:55   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 22:12:57   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 22:13:02   INFO [pages.MainPage] : Main page was opened
+2024-22-01 22:13:02   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 22:13:02   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 22:13:02   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 22:13:05   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 22:13:06   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 22:13:10   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 22:13:10   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:13:11   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:13:11   INFO [pages.WishPage] : Price is visible
+2024-22-01 22:13:11   INFO [pages.WishPage] : Product brand is visible
+2024-22-01 22:13:12   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 22:13:12   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 22:16:27   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 22:16:29   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 22:16:34   INFO [pages.MainPage] : Main page was opened
+2024-22-01 22:16:34   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 22:16:34   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 22:16:34   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 22:16:36   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 22:16:37   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 22:16:40   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 22:16:40   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:16:42   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:16:42   INFO [pages.WishPage] : Price is visible
+2024-22-01 22:16:42   INFO [pages.WishPage] : Product brand is visible
+2024-22-01 22:16:42   INFO [pages.WishPage] : Product name is visible
+2024-22-01 22:16:42   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 22:16:42   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 22:19:19   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 22:19:21   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 22:19:26   INFO [pages.MainPage] : Main page was opened
+2024-22-01 22:19:26   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 22:19:26   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 22:19:26   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 22:19:28   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 22:19:28   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 22:19:32   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 22:19:32   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:19:33   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:19:33   INFO [pages.WishPage] : Price is visible
+2024-22-01 22:19:33   INFO [pages.WishPage] : Product brand is visible
+2024-22-01 22:19:33   INFO [pages.WishPage] : Product name is visible
+2024-22-01 22:19:34   INFO [pages.WishPage] : Element was clicked ×
+2024-22-01 22:19:34   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 22:19:34   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
+2024-22-01 22:20:02   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was started ------
+2024-22-01 22:20:04   INFO [wishPageTests.WishPageTests] : Browser opened
+2024-22-01 22:20:09   INFO [pages.MainPage] : Main page was opened
+2024-22-01 22:20:09   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 22:20:09   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 22:20:09   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 22:20:12   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 22:20:12   INFO [pages.HomePage] : CK-27 was inputted into input
+2024-22-01 22:20:16   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 22:20:16   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:20:17   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 22:20:17   INFO [pages.WishPage] : Price is visible
+2024-22-01 22:20:17   INFO [pages.WishPage] : Product brand is visible
+2024-22-01 22:20:17   INFO [pages.WishPage] : Product name is visible
+2024-22-01 22:20:18   INFO [wishPageTests.WishPageTests] : Browser closed
+2024-22-01 22:20:18   INFO [wishPageTests.WishPageTests] : ------ wishPageTestAddProduct_TC_05 was ended ------
