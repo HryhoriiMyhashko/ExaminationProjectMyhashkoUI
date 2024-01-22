@@ -22,4 +22,10 @@ public class PageProvider {
     public PersonalDataPage personalDataPage() {
         return new PersonalDataPage(webDriver);
     }
+    public ProductPage productPage() {
+        return new ProductPage(webDriver);
+    }
+    public CartPage cartPage() {
+        return new CartPage(webDriver);
+    }
 }

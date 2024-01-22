@@ -484,3 +484,202 @@
 2024-22-01 17:59:13   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
 2024-22-01 17:59:14   INFO [personalDataTests.PersonalDataTestChangeName] : Browser closed
 2024-22-01 17:59:14   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName_TC_3 was ended ------
+2024-22-01 20:35:20   INFO [cardPageTests.CardPageTests] : ------ cardPageTestAddProduct was started ------
+2024-22-01 20:35:23   INFO [cardPageTests.CardPageTests] : Browser opened
+2024-22-01 20:35:28   INFO [pages.MainPage] : Main page was opened
+2024-22-01 20:35:28   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 20:35:28   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 20:35:28   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 20:35:30   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 20:35:30   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 20:35:35   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 20:35:36   INFO [cardPageTests.CardPageTests] : Browser closed
+2024-22-01 20:35:36   INFO [cardPageTests.CardPageTests] : ------ cardPageTestAddProduct was ended ------
+2024-22-01 20:55:12   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct was started ------
+2024-22-01 20:55:14   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 20:55:19   INFO [pages.MainPage] : Main page was opened
+2024-22-01 20:55:19   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 20:55:19   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 20:55:19   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 20:55:22   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 20:55:22   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 20:55:27   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 20:55:27   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 20:55:27   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 20:55:28   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 20:55:28   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct was ended ------
+2024-22-01 20:59:38   INFO [cardPageTests.CardPageTests] : ------ cardPageTestAddProduct was started ------
+2024-22-01 20:59:40   INFO [cardPageTests.CardPageTests] : Browser opened
+2024-22-01 20:59:45   INFO [pages.MainPage] : Main page was opened
+2024-22-01 20:59:45   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 20:59:45   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 20:59:45   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 20:59:47   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 20:59:47   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 20:59:52   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 20:59:52   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 20:59:52   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 20:59:53   INFO [cardPageTests.CardPageTests] : Browser closed
+2024-22-01 20:59:53   INFO [cardPageTests.CardPageTests] : ------ cardPageTestAddProduct was ended ------
+2024-22-01 21:14:00   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:14:02   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:14:08   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:14:09   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:14:09   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:14:09   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:14:11   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:14:11   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:14:16   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:14:16   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:14:16   INFO [pages.ProductPage] : Element was clicked 
+2024-22-01 21:14:32  ERROR [pages.ProductPage] : Can not work with element
+2024-22-01 21:14:33   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:14:33   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:18:04   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:18:06   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:18:11   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:18:11   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:18:11   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:18:11   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:18:13   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:18:13   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:18:18   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:18:18   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:18:20   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:18:20   INFO [pages.CartPage] : Element  is displayed -> true
+2024-22-01 21:18:21   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:18:21   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:24:44   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:24:46   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:24:46   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:24:50   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:24:51   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:24:51   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:24:53   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:24:53   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:24:58   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:24:58   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:25:00   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:25:01   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:25:01   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:25:25   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:25:27   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:25:35   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:25:35   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:25:35   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:25:35   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:25:37   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:25:37   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:25:43   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:25:43   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:25:44   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:25:44   INFO [pages.CartPage] : Brand Josera is visible
+2024-22-01 21:25:45   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:25:45   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:34:37   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:34:39   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:34:44   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:34:44   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:34:44   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:34:44   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:34:46   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:34:47   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:34:51   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:34:52   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:34:53   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:34:53   INFO [pages.CartPage] : Brand Josera is visible
+2024-22-01 21:34:53   INFO [pages.CartPage] : Product name is visible
+2024-22-01 21:34:54   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:34:54   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:39:06   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:39:09   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:39:14   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:39:14   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:39:14   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:39:14   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:39:17   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:39:17   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:39:22   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:39:22   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:39:24   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:39:24   INFO [pages.CartPage] : Brand Josera is visible
+2024-22-01 21:39:24   INFO [pages.CartPage] : Product name is visible
+2024-22-01 21:39:24   INFO [pages.CartPage] : Product article is visible
+2024-22-01 21:39:25   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:39:25   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:42:31   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:42:33   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:42:38   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:42:39   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:42:39   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:42:39   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:42:41   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:42:41   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:42:46   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:42:46   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:42:48   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:42:48   INFO [pages.CartPage] : Brand Josera is visible
+2024-22-01 21:42:48   INFO [pages.CartPage] : Product name is visible
+2024-22-01 21:42:48   INFO [pages.CartPage] : Product article is visible
+2024-22-01 21:42:48   INFO [pages.CartPage] : Product price is visible
+2024-22-01 21:42:49   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:42:49   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------
+2024-22-01 21:44:28   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin_TC_1 was started ------
+2024-22-01 21:44:30   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 21:44:35   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:44:35   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:44:35   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:44:35   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:44:37   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:44:53   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 21:44:53   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 21:44:53   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 21:44:54   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 21:44:54   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin_TC_1 was ended ------
+2024-22-01 21:45:03   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registrationPageTestWithoutInputDataWhileRegistration_TC_2 was started ------
+2024-22-01 21:45:06   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 21:45:11   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:45:11   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:45:13   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:45:13   INFO [pages.RegistrationPage] : Element was clicked Зареєструватись
+2024-22-01 21:45:13   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 21:45:13   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 21:45:13   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 21:45:13   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 21:45:14   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 21:45:14   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registrationPageTestWithoutInputDataWhileRegistration_TC_2 was ended ------
+2024-22-01 21:45:35   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName_TC_3 was started ------
+2024-22-01 21:45:37   INFO [personalDataTests.PersonalDataTestChangeName] : Browser opened
+2024-22-01 21:45:42   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:45:43   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:45:43   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:45:43   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:45:45   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:45:46   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:45:47   INFO [pages.HomePage] : Element was clicked Особисті дані
+2024-22-01 21:45:47   INFO [pages.PersonalDataPage] : TestName was inputted into input
+2024-22-01 21:45:49   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
+2024-22-01 21:45:49   INFO [pages.PersonalDataPage] : Text in Name field are changed
+2024-22-01 21:45:49   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:45:49   INFO [pages.HomePage] : Element was clicked Особисті дані
+2024-22-01 21:45:49   INFO [pages.PersonalDataPage] : 2 was inputted into input
+2024-22-01 21:45:51   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
+2024-22-01 21:45:52   INFO [personalDataTests.PersonalDataTestChangeName] : Browser closed
+2024-22-01 21:45:52   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName_TC_3 was ended ------
+2024-22-01 21:45:58   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was started ------
+2024-22-01 21:46:00   INFO [cartPageTest.CartPageTests] : Browser opened
+2024-22-01 21:46:05   INFO [pages.MainPage] : Main page was opened
+2024-22-01 21:46:05   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 21:46:05   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 21:46:05   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 21:46:08   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 21:46:08   INFO [pages.HomePage] : Josera Festival was inputted into input
+2024-22-01 21:46:13   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 21:46:13   INFO [pages.ProductPage] : Element was clicked Придбати
+2024-22-01 21:46:14   INFO [pages.ProductPage] : Element was clicked ОФОРМИТИ ЗАМОВЛЕННЯ
+2024-22-01 21:46:14   INFO [pages.CartPage] : Brand Josera is visible
+2024-22-01 21:46:14   INFO [pages.CartPage] : Product name is visible
+2024-22-01 21:46:14   INFO [pages.CartPage] : Product article is visible
+2024-22-01 21:46:14   INFO [pages.CartPage] : Product price is visible
+2024-22-01 21:46:15   INFO [cartPageTest.CartPageTests] : Browser closed
+2024-22-01 21:46:15   INFO [cartPageTest.CartPageTests] : ------ cartPageTestAddProduct_TC_04 was ended ------

@@ -29,7 +29,7 @@ public class PersonalDataPage extends ParentPage{
     }
 
     public PersonalDataPage checkLoginAreChanged() {
-        checkTextInInput(inputLogName, getEnteredNameField().toUpperCase());
+        checkTextInElement(inputLogName, getEnteredNameField().toUpperCase());
         logger.info("Text in Name field are changed");
         return this;
 

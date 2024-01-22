@@ -11,6 +11,10 @@ public class HomePage extends ParentPage{
     private WebElement iconWish;
     @FindBy(xpath = "//*[@href='/user#tab-1']")
     private WebElement buttonPersonalData;
+    @FindBy(xpath = "//*[@class='search-field live-search__field js-live-search-field input_search']")
+    private WebElement inputSearch;
+    @FindBy(xpath = "//*[@class='button_search live-search__submit']")
+    private WebElement buttonSearch;
 
 
     public HomePage(WebDriver webDriver) {
@@ -32,5 +36,14 @@ public class HomePage extends ParentPage{
 
     public void clickOnButtonPersonalData() {
         clickOnElement(buttonPersonalData);
+    }
+
+    public void enterTextIntoSearchField(String text) {
+        enterTextIntoInput(inputSearch, text);
+
+    }
+
+    public void clickOnButtonSearch() {
+        clickOnElement(buttonSearch);
     }
 }
