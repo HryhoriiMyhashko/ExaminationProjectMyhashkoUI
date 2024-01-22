@@ -45,7 +45,7 @@ Steps:
 4. В полі name="name" ввести нове значення
 5. Натиснути "Зберегти"
 Expected Result: Перевірити що значення змінене для log_name, name="name"
-Post-condition: 
+Post-condition: Повернути попереднє ім'я
 
 
 

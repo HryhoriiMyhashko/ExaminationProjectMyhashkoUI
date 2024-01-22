@@ -442,3 +442,45 @@
 2024-22-01 17:19:57   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
 2024-22-01 17:19:58   INFO [personalDataTests.PersonalDataTestChangeName] : Browser closed
 2024-22-01 17:19:58   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName was ended ------
+2024-22-01 17:58:05   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin_TC_1 was started ------
+2024-22-01 17:58:07   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser opened
+2024-22-01 17:58:12   INFO [pages.MainPage] : Main page was opened
+2024-22-01 17:58:12   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 17:58:12   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 17:58:12   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 17:58:15   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 17:58:30   INFO [pages.MainPage] : Element is displayed -> false
+2024-22-01 17:58:30   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 17:58:30   INFO [pages.HomePage] : Element  is displayed -> true
+2024-22-01 17:58:31   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
+2024-22-01 17:58:31   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin_TC_1 was ended ------
+2024-22-01 17:58:39   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registrationPageTestWithoutInputDataWhileRegistration_TC_2 was started ------
+2024-22-01 17:58:41   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 17:58:46   INFO [pages.MainPage] : Main page was opened
+2024-22-01 17:58:46   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 17:58:48   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 17:58:48   INFO [pages.RegistrationPage] : Element was clicked Зареєструватись
+2024-22-01 17:58:48   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 17:58:48   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 17:58:48   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 17:58:48   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 17:58:49   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 17:58:49   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registrationPageTestWithoutInputDataWhileRegistration_TC_2 was ended ------
+2024-22-01 17:58:56   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName_TC_3 was started ------
+2024-22-01 17:58:58   INFO [personalDataTests.PersonalDataTestChangeName] : Browser opened
+2024-22-01 17:59:03   INFO [pages.MainPage] : Main page was opened
+2024-22-01 17:59:04   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 17:59:04   INFO [pages.MainPage] : 1234@gmail.com was inputted into input
+2024-22-01 17:59:04   INFO [pages.MainPage] : 123 was inputted into input
+2024-22-01 17:59:07   INFO [pages.MainPage] : Element was clicked Увійти
+2024-22-01 17:59:07   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 17:59:09   INFO [pages.HomePage] : Element was clicked Особисті дані
+2024-22-01 17:59:10   INFO [pages.PersonalDataPage] : TestName was inputted into input
+2024-22-01 17:59:11   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
+2024-22-01 17:59:11   INFO [pages.PersonalDataPage] : Text in Name field are changed
+2024-22-01 17:59:11   INFO [pages.HomePage] : Element was clicked 
+2024-22-01 17:59:11   INFO [pages.HomePage] : Element was clicked Особисті дані
+2024-22-01 17:59:12   INFO [pages.PersonalDataPage] : 2 was inputted into input
+2024-22-01 17:59:13   INFO [pages.PersonalDataPage] : Element was clicked Зберегти
+2024-22-01 17:59:14   INFO [personalDataTests.PersonalDataTestChangeName] : Browser closed
+2024-22-01 17:59:14   INFO [personalDataTests.PersonalDataTestChangeName] : ------ personalDataTestChangeName_TC_3 was ended ------

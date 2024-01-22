@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class RegistretionPageTestWithoutInputDataWhileRegistration extends BaseTest {
     @Test
-    public void registretionPageTestWithoutInputDataWhileRegistration() {
+    public void registrationPageTestWithoutInputDataWhileRegistration_TC_2() {
         pageProvider.mainPage().openMainPage();
         pageProvider.mainPage().clickONButtonEnter();
         pageProvider.mainPage().clickOnButtonRegistration();

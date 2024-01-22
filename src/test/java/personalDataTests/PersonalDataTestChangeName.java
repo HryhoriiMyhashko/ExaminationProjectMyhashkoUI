@@ -7,7 +7,7 @@ import org.junit.Test;
 public class PersonalDataTestChangeName extends BaseTest {
 
     @Test
-    public void personalDataTestChangeName() {
+    public void personalDataTestChangeName_TC_3() {
         pageProvider.mainPage().openMainPageAndFillLoginFormWithValidData();
         pageProvider.homePage().clickOnButtonMyAccount();
         pageProvider.homePage().clickOnButtonPersonalData();
