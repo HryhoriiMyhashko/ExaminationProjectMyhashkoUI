@@ -15,6 +15,8 @@ public class MainPage extends ParentPage {
     protected WebElement inputLogin;
     @FindBy(xpath = "//*[@value='Увійти']")
     protected WebElement buttonEnterInLoginMenu;
+    @FindBy(xpath = "//*[text()='Реєстрація']")
+    private WebElement buttonRegistration;
 
 
     public MainPage(WebDriver webDriver) {
@@ -43,5 +45,9 @@ public class MainPage extends ParentPage {
     }
     public boolean isButtonEnterVisible() {
         return isElementDisplayed(buttonEnter);
+    }
+
+    public void clickOnButtonRegistration() {
+        clickOnElement(buttonRegistration);
     }
 }

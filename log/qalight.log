@@ -234,3 +234,46 @@
 2024-22-01 15:31:49   INFO [pages.HomePage] : Element  is displayed -> true
 2024-22-01 15:31:50   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : Browser closed
 2024-22-01 15:31:50   INFO [MainPageTests.MainPageLoginTestWithPageObjects] : ------ validLogin was ended ------
+2024-22-01 15:42:28   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was started ------
+2024-22-01 15:42:30   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 15:42:36   INFO [pages.MainPage] : Main page was opened
+2024-22-01 15:42:36   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:42:36   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 15:42:36   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was ended ------
+2024-22-01 15:46:14   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was started ------
+2024-22-01 15:46:16   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 15:46:21   INFO [pages.MainPage] : Main page was opened
+2024-22-01 15:46:22   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:46:23   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:46:24   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 15:46:24   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was ended ------
+2024-22-01 15:53:57   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was started ------
+2024-22-01 15:53:59   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 15:54:04   INFO [pages.MainPage] : Main page was opened
+2024-22-01 15:54:05   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:54:06   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 15:54:07   INFO [pages.RegistrationPage] : Element was clicked Зареєструватись
+2024-22-01 15:54:07   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 15:54:07   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was ended ------
+2024-22-01 16:10:19   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was started ------
+2024-22-01 16:10:22   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 16:10:27   INFO [pages.MainPage] : Main page was opened
+2024-22-01 16:10:27   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 16:10:29   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 16:10:29   INFO [pages.RegistrationPage] : Element was clicked Зареєструватись
+2024-22-01 16:10:29   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 16:10:49   INFO [pages.RegistrationPage] : Element is displayed -> false
+2024-22-01 16:10:50   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 16:10:50   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was ended ------
+2024-22-01 16:13:09   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was started ------
+2024-22-01 16:13:11   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser opened
+2024-22-01 16:13:16   INFO [pages.MainPage] : Main page was opened
+2024-22-01 16:13:16   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 16:13:18   INFO [pages.MainPage] : Element was clicked 
+2024-22-01 16:13:18   INFO [pages.RegistrationPage] : Element was clicked Зареєструватись
+2024-22-01 16:13:18   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 16:13:18   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 16:13:18   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 16:13:18   INFO [pages.RegistrationPage] : Element  is displayed -> true
+2024-22-01 16:13:19   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : Browser closed
+2024-22-01 16:13:19   INFO [registrationPageTests.RegistretionPageTestWithoutInputDataWhileRegistration] : ------ registretionPageTestWithoutInputDataWhileRegistration was ended ------

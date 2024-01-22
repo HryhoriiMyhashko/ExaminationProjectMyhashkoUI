@@ -9,7 +9,7 @@ import static data.TestData.VALID_PASSWORD_UI;
 
 public class MainPageLoginTestWithPageObjects extends BaseTest {
     @Test
-    public void validLogin() {
+    public void validLogin_TC_1() {
         pageProvider.mainPage().openMainPage();
         pageProvider.mainPage().clickONButtonEnter();
         pageProvider.mainPage().enterTextIntoInputLogin(VALID_LOGIN_UI);

@@ -16,4 +16,7 @@ public class PageProvider {
     public HomePage homePage() {
         return new HomePage(webDriver);
     }
+    public RegistrationPage registrationPage() {
+        return new RegistrationPage(webDriver);
+    }
 }
